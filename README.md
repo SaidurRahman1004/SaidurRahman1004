@@ -1,28 +1,103 @@
-[README.md](https://github.com/user-attachments/files/24040055/README.md)
-<h1 align="center">Hi 👋, I'm Saidur Rahman</h1>
-<h3 align="center">A passionate Application developer (Android/Web/IOS)</h3>
+<!-- Improved GitHub Profile README for Saidur Rahman -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidurrahman1004" alt="saidurrahman1004" /></a> </p>
+<h1 align="center">Hi 👋, I'm <strong>Saidur Rahman</strong></h1>
+<h3 align="center">Flutter Developer • Cross‑Platform App Builder • Learning Backend & AI</h3>
 
-- 👯 I’m looking to collaborate on [My Trips (Travel App)](https://github.com/SaidurRahman1004/my_trips.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/SaidurRahman1004](https://github.com/SaidurRahman1004)
-
-- 💬 Ask me about **Flutter,Dart,Python,Django,JavaScript**
-
-- 📫 How to reach me **saidurrahman1004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/saidurrahman1004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saidurrahman1004" height="30" width="40" /></a>
+<!-- Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saidurrahman1004&theme=algolia&margin-w=10" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidurrahman1004&show_icons=true&locale=en&layout=compact" alt="saidurrahman1004" /></p>
+## 🌟 About Me
+I'm a passionate **Flutter Developer** focused on building clean, scalable, high‑performance applications for **Android, iOS, and Web**. I love exploring backend technologies like **Django** and **Python**, and I am expanding into **AI Automation**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidurrahman1004&show_icons=true&locale=en" alt="saidurrahman1004" /></p>
+- 🔭 Currently working on: **My Trips (Travel App)** → [Project Link](https://github.com/SaidurRahman1004/my_trips.git)
+- 👯 Looking for collaboration in: **Flutter, AI + App Integration, Django APIs**
+- 💬 Ask me about: **Flutter, Dart, Firebase, Django, Python, JavaScript**
+- 📫 Reach me at: **saidurrahman1004@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidurrahman1004&" alt="saidurrahman1004" /></p>
+---
 
+## 🔗 Connect With Me
+<p>
+  <a href="https://fb.com/saidurrahman1004" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30" />
+  </a>
+
+  <a href="https://wa.me/+8801795664122" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" height="30" />
+  </a>
+</p>
+
+
+
+
+---
+
+# 🚀 Tech Stack
+## ⭐ Core Technologies (Primary Skills)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" />
+</p>
+
+---
+
+## 💻 Programming Languages
+<p>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
+</p>
+
+---
+
+## 🛠 Tools & Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saidurrahman1004&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saidurrahman1004&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saidurrahman1004&theme=tokyonight" />
+</p>
+
+# 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saidurrahman1004&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://https://github-readme-activity-graph.vercel.app/graph?username=saidurrahman1004&theme=react-dark" />
+</p>
+
+---
+
+# 👀 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saidurrahman1004&style=flat-square&color=blue" />
+</p>
+
+---
+
+✨ **Thanks for visiting — Stay connected & keep coding!**

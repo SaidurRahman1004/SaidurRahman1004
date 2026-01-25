@@ -1,22 +1,17 @@
-<!-- Improved GitHub Profile README for Saidur Rahman -->
-
 <h1 align="center">Hi 👋, I'm <strong>Saidur Rahman</strong></h1>
-<h3 align="center">Flutter Developer • Cross‑Platform App Builder • Learning Backend & AI</h3>
-
-<!-- Profile Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saidurrahman1004&theme=algolia&margin-w=10" />
-</p>
+<h3 align="center">Flutter Developer • Cross-Platform App Builder • Learning Backend & AI</h3>
 
 ---
 
 ## 🌟 About Me
-I'm a passionate **Flutter Developer** focused on building clean, scalable, high‑performance applications for **Android, iOS, and Web**. I love exploring backend technologies like **Django** and **Python**, and I am expanding into **AI Automation**.
+I'm an aspiring **Flutter/Dart App Developer** and **Django Backend Developer**, focused on creating efficient, scalable, and responsive cross-platform applications. I am also diving into the fascinating world of **AI Integration with Flutter**, constantly pushing the limits of what's possible with technology.
 
-- 🔭 Currently working on: **My Trips (Travel App)** → [Project Link](https://github.com/SaidurRahman1004/my_trips.git)
-- 👯 Looking for collaboration in: **Flutter, AI + App Integration, Django APIs**
-- 💬 Ask me about: **Flutter, Dart, Firebase, Django, Python, JavaScript**
-- 📫 Reach me at: **saidurrahman1004@gmail.com**
+- 🔭 Currently working on: [ChatPro (AI-Integrated Chat App)](https://github.com/SaidurRahman1004/chat_pro.git)
+- 🚀 Exploring: **AI Integration with Flutter**
+- 🌱 Currently learning: **Advanced Backend Development with Django**  
+- 📫 Contact me at: **[saidurrahman1004@gmail.com](mailto:saidurrahman1004@gmail.com)**  
+- 🌍 Website Portfolio: **[Portfolio Site](https://saidurs-portfolio.web.app)**  
+- 🤝 Open to collaboration in: **Flutter projects, Django APIs, and AI/ML projects**
 
 ---
 
@@ -25,14 +20,38 @@ I'm a passionate **Flutter Developer** focused on building clean, scalable, high
   <a href="https://fb.com/saidurrahman1004" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30" />
   </a>
-
   <a href="https://wa.me/+8801795664122" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" height="30" />
   </a>
+  <a href="https://github.com/SaidurRahman1004" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/saidur1004" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" />
+  </a>
+  <a href="https://saidurs-portfolio.web.app/" target="_blank">
+    <img src="https://i.postimg.cc/kXRZC5fv/logo.png" width="40" height="30" />
+  </a>
 </p>
 
+---
 
+## 🚀 Projects
+- **[Saidur’s Portfolio Website (Live Portfolio)](https://saidurs-portfolio.web.app)**  
+  - Tech Stack: **Flutter Web, Firebase (Auth, Firestore, Hosting), Material Design 3**
+  - Real-time CMS for Portfolio Updates 💼
+  
+- **[ChatPro (AI-Integrated Chat App)](https://github.com/SaidurRahman1004/chat_pro.git)**  
+  - Tech Stack: **Flutter, Dart, AI Integration**
+  - Building an AI-powered user chat support application. 🤖
 
+- **[TravelSnap (Flutter Travel App)](https://github.com/SaidurRahman1004/my_trips.git)**  
+  - Travel booking and management with Firebase integration 🌍
+
+- **[PocketVault (Productivity App)](https://github.com/SaidurRahman1004/pocketvault.git)**  
+  - Multi-purpose productivity app featuring Shopping List, Media Tracker, and Bookmark Manager ✍️
+
+**More Projects on my [GitHub](https://github.com/SaidurRahman1004)**
 
 ---
 
@@ -45,6 +64,7 @@ I'm a passionate **Flutter Developer** focused on building clean, scalable, high
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="45" />
 </p>
 
 ---
@@ -62,11 +82,12 @@ I'm a passionate **Flutter Developer** focused on building clean, scalable, high
 
 ---
 
-## 🛠 Tools & Frameworks
+## 🧰 Tools & Frameworks
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
 </p>
 
 ---
@@ -87,17 +108,6 @@ I'm a passionate **Flutter Developer** focused on building clean, scalable, high
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saidurrahman1004&theme=tokyo-night" />
 </p>
 
-<p align="center">
-  <img src="https://https://github-readme-activity-graph.vercel.app/graph?username=saidurrahman1004&theme=react-dark" />
-</p>
-
 ---
 
-# 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saidurrahman1004&style=flat-square&color=blue" />
-</p>
-
----
-
-✨ **Thanks for visiting — Stay connected & keep coding!**
+✨ **Thanks for visiting — [Stay connected](https://saidurs-portfolio.web.app) & keep coding!**

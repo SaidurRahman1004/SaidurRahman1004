@@ -6,7 +6,7 @@
 ## 🌟 About Me
 I'm an aspiring **Flutter/Dart App Developer** and **Django Backend Developer**, focused on creating efficient, scalable, and responsive cross-platform applications. I am also diving into the fascinating world of **AI Integration with Flutter**, constantly pushing the limits of what's possible with technology.
 
-- 🔭 Currently working on: [ChatPro (AI-Integrated Chat App)](https://github.com/SaidurRahman1004/chat_pro.git)
+- 🔭 Currently working on: [digital Ecomarce shop](https://github.com/SaidurRahman1004/digital_shop.git)
 - 🚀 Exploring: ** AI Integration with Flutter And Websocket**
 - 🌱 Currently learning: **Advanced Backend Development with Django**  
 - 📫 Contact me at: **[saidurrahman1004@gmail.com](mailto:saidurrahman1004@gmail.com)**  
